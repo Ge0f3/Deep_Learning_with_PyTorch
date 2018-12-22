@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#deep learning files folder 
+
+/deep-learning-v2-pytorch
